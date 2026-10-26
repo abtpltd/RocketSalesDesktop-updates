@@ -1,11 +1,11 @@
 {
-  "version": "0.2.33",
-  "notes": "- RocketPilot AI: morning and end-of-day briefings, weekly and monthly review, visit plan\n- RocketPilot AI: ask about a customer or a person, reminders, most asked questions, print an answer\n- RocketPilot AI: Side, Half and Full panel views, list of questions it could not answer\n- Attendance and other reports: rows coloured by performance\n- You now hear a sound and see these notes whenever a new version is ready",
-  "pub_date": "2026-10-26T08:51:39Z",
+  "version": "0.2.35",
+  "notes": "RocketSales desktop 0.2.35",
+  "pub_date": "2026-10-26T09:28:11Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMFhoRUFpcDVvN2ozcTJXbEZneVpJaHRYNzZlVUZaTGZNOThmVDZFSDU2OW5TVkd2YnVQaFBkR2VZdFVsS1cwSWcveENzS2VBZm1aTGc5L2ZvVXNWQXZVZzZZcTY3WHdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDA0Njc1CWZpbGU6Um9ja2V0U2FsZXMgUGhhcm1hIEFJIFBvd2VyZWQgU0ZBIFNvbHV0aW9uXzAuMi4zM194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yLjMzCldoL1lIV0p1VTZCTkk2NG16OXlUeGR1dHo4ckJpL2xZUkRoM0tVdjYvMDB6a1UzcjBQNUxaMTRMUmdIaUJ4enVreTFLUmVLZDZpbHVhSjFFOU95M0RnPT0K",
-      "url": "https://raw.githubusercontent.com/abtpltd/RocketSalesDesktop-updates/master/releases/0.2.33/RocketSales-Desktop-0.2.33-run33-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMFhoRUFpcDVvN28rRU5zMVRKZ2oxUzJvdGpQd0NmYVhtaUZoVHFUUlhMRTY2QzVrbU1pR1FmV09BUFB4OG1MYkovNkJoOXhiVDQrVyszVlBKNkhDd0VvYm1jMkUyZGdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDA2ODc5CWZpbGU6Um9ja2V0U2FsZXMgUGhhcm1hIEFJIFBvd2VyZWQgU0ZBIFNvbHV0aW9uXzAuMi4zNV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yLjM1CmVqTHhHMXRPbEpWaVFOVmZDdUxzYk1wMm0xYXlNMm5QMVJVU3lQQXlKZVRmY3RNcTY0cFgwcmhUWEM5Qlh6ckh0S2swVUNIRVlWUjB2a0QxRlFYUkFnPT0K",
+      "url": "https://raw.githubusercontent.com/abtpltd/RocketSalesDesktop-updates/master/releases/0.2.35/RocketSales-Desktop-0.2.35-run35-setup.exe"
     }
   }
 }
