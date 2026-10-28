@@ -1,11 +1,11 @@
 {
-  "version": "0.2.46",
-  "notes": "RocketSales desktop 0.2.46",
-  "pub_date": "2026-10-27T20:56:10Z",
+  "version": "0.2.47",
+  "notes": "RocketSales desktop 0.2.47",
+  "pub_date": "2026-10-28T03:17:42Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMFhoRUFpcDVvN3A2Vmx0MHNIVlVQTjJ4NHZpVTUxTUdQSmpKVWg0bERGd3g2TS94aUJrV3JBUXVLK2t6Rnd4MWErcTA0WXJHZVFHQlRMT0l5T2pTZ09LcUJ5V1V4eHdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTM0NTU1CWZpbGU6Um9ja2V0U2FsZXMgUGhhcm1hIEFJIFBvd2VyZWQgU0ZBIFNvbHV0aW9uXzAuMi40Nl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yLjQ2CkU1OUNtNEF3QjU4dFRGSWw3MS80QzdTR2JRZGJKeVoyN25KNUJ3MGE3U3FnOStrMVhYOGUvUVY1YWpMS0JqZDZLdW5TanBIVFdSQjdFemNDbmFtZ0RnPT0K",
-      "url": "https://raw.githubusercontent.com/abtpltd/RocketSalesDesktop-updates/master/releases/0.2.46/RocketSales-Desktop-0.2.46-run46-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMFhoRUFpcDVvN2tRcm5YSTZMTVlJTkVLY0FvOEFPcW9CUmxCekYxekVSeFFyMlVFa3pYTElFK0JRR1JJWEtaeFlOOTdMS2dXTVBlQ2VOeGdEczQ5Z3ZaY3YxN1g0WFFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTU3NDQ2CWZpbGU6Um9ja2V0U2FsZXMgUGhhcm1hIEFJIFBvd2VyZWQgU0ZBIFNvbHV0aW9uXzAuMi40N194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yLjQ3CkZucFFnQktUd0kxMmY2VzFxR0dqNm9ZNWRuZEJ5RDlvMDJnS1o3Ly95SDZMNkh4aTkxSHh1bFJ1MlpUbllabFplaWZMbHVCT0xTS0MvU3NaYm1CTENBPT0K",
+      "url": "https://raw.githubusercontent.com/abtpltd/RocketSalesDesktop-updates/master/releases/0.2.47/RocketSales-Desktop-0.2.47-run47-setup.exe"
     }
   }
 }
